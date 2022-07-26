@@ -9,9 +9,9 @@ The purpose of this analysis is to help our client decide if a surf and ice crea
 
 In the conclusion of our analysis we generate two tables; the summary statistics of June Temps and the summary statistics of December Temps. Both tables are displayed below:
 
-![june_temps.png](surfs_up/june_temps.png)
+![june_temps.png](june_temps.png)
 
-![december_temps.png](surfs_up/december_temps.png)
+![december_temps.png](december_temps.png)
 
 From the summary statistics of each months I was able to identify three key differences:
 
